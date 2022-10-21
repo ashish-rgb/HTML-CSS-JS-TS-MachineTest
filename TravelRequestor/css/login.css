@@ -1,0 +1,27 @@
+*
+{
+    font-family: 'Poppins',Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #E1FFEE;
+}
+
+
+
+.container{
+    max-width: 900px;
+    margin-top: 12%;
+    border: 5px solid #7FBCD2;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+h2{
+    padding-bottom: 2%;
+}
+
+.form-control{
+    margin: 10px;
+}
+
+.btn{
+    margin: 10px;
+}

@@ -1,0 +1,17 @@
+*
+{
+    font-family: 'Poppins',Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand{
+    color: brown;
+    font-weight: bolder;
+}
+
+table{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 1%;
+    background-color: #7FBCD2;
+}
+
